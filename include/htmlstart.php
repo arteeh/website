@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>h0mebase</title>
+	<title>arteeh's website</title>
 	<meta name="description" content="arteeh's personal website">
 	<meta name="theme-color" content="#1a1a1a">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">

@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>h0mebase</title>
-	<meta name="description" content="made by cozomomo">
+	<meta name="description" content="arteeh's personal website">
 	<meta name="theme-color" content="#1a1a1a">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="../css/style.css">

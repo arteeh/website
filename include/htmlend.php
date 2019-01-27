@@ -5,13 +5,11 @@
 	<div class='footer'>
 		<div class='footerContent'>
 			&nbsp;
-			[<a href="https://www.twitter.com/cozomomo">twitter</a>]
+			[<a href="https://www.twitter.com/arteehlive">twitter</a>]
 			&nbsp;
-			[<a href="https://www.instagram.com/cozomomo">instagram</a>]
+			[<a href="https://www.instagram.com/arteehlive">instagram</a>]
 			&nbsp;
-			[<a href="https://www.reddit.com/u/cozomomo">reddit</a>]
-			&nbsp;
-			[<a href="https://gitlab.com/arteeh/h0mebase">source</a>]
+			[<a href="https://gitlab.com/arteeh/website">source</a>]
 			&nbsp;
 			[<a href="../licensepage.php">license</a>]
 		</div>

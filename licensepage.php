@@ -41,6 +41,6 @@ SOFTWARE.
 
 <br>
 
-The actual license file can be found <a href="LICENSE">here</a> or on the github page.
+The actual license file can be found <a href="LICENSE">here</a> or on the gitlab page.
 
 <?php include 'include/htmlend.php'; ?>

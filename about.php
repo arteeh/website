@@ -3,9 +3,8 @@
 
 <div id="first">
 	<p>
-		If you found your way on this website, you should probably leave. 
-		I made this site for myself to host random things and to play around with code. 
-		There's nothing to see here for now.
+		I made this site for myself to host and post random things. 
+		For now, there's nothing to see here.
 	</p>
 </div>
 

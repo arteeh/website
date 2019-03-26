@@ -9,7 +9,7 @@
 		echo '<div>';
 			echo '<h2>' . fgets($file) . '</h2>';
 			echo '<p id="date">' . fgets($file) . '</p>';
-			echo "<br>";
+			echo "<br><br>";
 			while(!feof($file))
 			{
 				echo '<p>' . fgets($file) . '</p><br>';

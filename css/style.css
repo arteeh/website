@@ -1,16 +1,16 @@
 /*
-Background:	d5d5d5
-Links:		96858f
-Titles/Bars:	6d7993	
-Text:		52575b
+Background:	F7F8F9
+Links:		3E528E
+Titles/Bars:	0A122A
+Text:		383838
 */
 
 * {
 	font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
 	/* Paper */
-	background: #d5d5d5;
+	background: #F7F8F9;
 	/* Charcoal */
-	color: #52575b;
+	color: #383838;
 }
 
 html, body {
@@ -20,13 +20,13 @@ html, body {
 }
 
 a {
-	color: #96858f;
+	color: #3E528E;
 	text-decoration: none;
 }
 
 hr {
 	border: none;
-	border-top: 1px solid #6d7993;
+	border-top: 1px solid #0A122A;
 }
 
 p {
@@ -35,7 +35,7 @@ p {
 }
 
 h2 {
-	color: #6d7993;
+	color: #0A122A;
 }
 
 #container {

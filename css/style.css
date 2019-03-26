@@ -1,9 +1,16 @@
+/*
+Background:	d5d5d5
+Links:		96858f
+Titles/Bars:	6d7993	
+Text:		52575b
+*/
+
 * {
 	font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
 	/* Paper */
-	background: #f4f4f4;
+	background: #d5d5d5;
 	/* Charcoal */
-	color: #373737;
+	color: #52575b;
 }
 
 html, body {
@@ -13,18 +20,22 @@ html, body {
 }
 
 a {
-	color: #5ebeff;
+	color: #96858f;
 	text-decoration: none;
 }
 
 hr {
 	border: none;
-	border-top: 1px solid #282a2e;
+	border-top: 1px solid #6d7993;
 }
 
 p {
 	width: 90%;
 	margin: 2px;
+}
+
+h2 {
+	color: #6d7993;
 }
 
 #container {

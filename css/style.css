@@ -48,11 +48,6 @@ h2 {
 	padding-bottom: 40px;
 }
 
-/*test*/
-#header {
-	position: fixed;
-}
-
 #footer {
 	position: fixed;
 	bottom: 0;

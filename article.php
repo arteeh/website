@@ -20,6 +20,4 @@
 	?>
 </div>
 
-<?php
-include 'htmlend.php';
-?>
+<?php include 'htmlend.php'; ?>

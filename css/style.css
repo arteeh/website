@@ -3,6 +3,7 @@ Background:	F7F8F9
 Links:		3E528E
 Titles/Bars:	0A122A
 Text:		383838
+Text Lite:	4C4C4C
 */
 
 * {
@@ -36,6 +37,11 @@ p {
 
 h2 {
 	color: #0A122A;
+}
+
+#date {
+	color: #4c4c4c;
+	margin: 0px;
 }
 
 #container {

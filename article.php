@@ -1,6 +1,6 @@
 <?php include 'htmlstart.php'; ?>
 
-<div id="first">
+<div>
 	<?php
 		$filename = $_GET["article"];
 		
@@ -8,7 +8,7 @@
 		
 		echo '<div>';
 			echo '<h2>' . fgets($file) . '</h2>';
-			echo '<p>' . fgets($file) . '</p>';
+			echo '<p id="">' . fgets($file) . '</p>';
 			echo "<br>";
 			while(!feof($file))
 			{

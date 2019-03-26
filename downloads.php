@@ -1,4 +1,4 @@
-<?php include 'include/htmlstart.php'; ?>
+<?php include 'htmlstart.php'; ?>
 
 
 <div id="first">
@@ -8,4 +8,4 @@
 </div>
 
 
-<?php include 'include/htmlend.php'; ?>
+<?php include 'htmlend.php'; ?>

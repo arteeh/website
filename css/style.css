@@ -1,7 +1,9 @@
 * {
 	font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
-	background: #1a1a1a;
-	color: #cecece;
+	/* Paper */
+	background: #f4f4f4;
+	/* Charcoal */
+	color: #373737;
 }
 
 html, body {
@@ -24,15 +26,6 @@ p {
 	width: 90%;
 	margin: 2px;
 }
-
-/*
-#first {
-	border: 1px solid #282a2e;
-	margin: 1px;
-	width: 66%;
-	float:left;
-}
-*/
 
 #container {
 	min-height: 100%;

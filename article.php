@@ -1,4 +1,4 @@
-<?php include 'include/htmlstart.php'; ?>
+<?php include 'htmlstart.php'; ?>
 
 <div id="first">
 	<?php
@@ -21,6 +21,5 @@
 </div>
 
 <?php
-include 'include/sidepage.php';
-include 'include/htmlend.php'; 
+include 'htmlend.php';
 ?>

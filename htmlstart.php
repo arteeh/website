@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<title>arteeh's website</title>
 	<meta name="description" content="arteeh's personal website">
-	<meta name="theme-color" content="#1a1a1a">
+	<meta name="theme-color" content="#F7F8F9">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="icon" href="src/favicon.png">

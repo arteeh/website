@@ -1,31 +1,52 @@
-<?php include 'htmlstart.php'; ?>
-
-<div>
-	<?php
-		//scan articles folder for files
-		$files = glob('articles/*.article');
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>arteeh's website</title>
+	<meta name="description" content="arteeh's personal website">
+	<meta name="theme-color" content="#F7F8F9">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="icon" href="src/favicon.png">
+</head>
+<body>
+	<div id="container">
+		<div id="header">
+			<div>
+				<span class="nav">
+					&nbsp;
+					[<a href="index.php">blog</a>]
+					&nbsp;
+					[<a href="downloads.php">downloads</a>]
+					&nbsp;
+					[<a href="about.php">about me</a>]
+				</span>
+			</div>
+		</div>
 		
-		//sort articles from new to old
-		rsort($files);
+		<hr>
 		
-		//for each article in the folder, place a sneak peek on the homepage
-		foreach($files as $file)
-		{
-			$filename = $file;
-			$file = fopen($file, "r");
-			
-			echo '<div>';
-				echo '<a href="article.php?article=' . $filename . '"><h2>' . fgets($file) . '</h2></a>';
-				echo '<p>' . fgets($file) . '</p>';
-				echo '<br>';
-				echo '<p>' . fgets($file) . '<a href="article.php?article=' . $filename . '">Full text..</a>' . '</p>';
-			echo '</div>';
-			echo '<hr>';
-			
-			fclose($file);
-		}
-	?>
-	
-</div>
+		<div id="body">
+		
+		welcome.
+		
+		</div>
 
-<?php include 'htmlend.php'; ?>
+		<div id="footer">
+			
+			<hr>
+			
+			<div class='footer'>
+				<div class='footerContent'>
+					&nbsp;
+					[<a href="https://www.twitter.com/arteehlive">twitter</a>]
+					&nbsp;
+					[<a href="https://www.instagram.com/arteehlive">instagram</a>]
+					&nbsp;
+					[<a href="https://gitlab.com/arteeh/website">source</a>]
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

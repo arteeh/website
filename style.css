@@ -1,6 +1,6 @@
 /*
-Background:	F7F8F9
-Links:		3E528E
+Background:	1a1a1a
+Links:		
 Titles/Bars:	0A122A
 Text:		383838
 Text Lite:	4C4C4C
@@ -9,9 +9,9 @@ Text Lite:	4C4C4C
 * {
 	font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
 	/* Paper */
-	background: #F7F8F9;
+	background: #1a1a1a;
 	/* Charcoal */
-	color: #383838;
+	color: #cecece;
 }
 
 html, body {
@@ -21,13 +21,13 @@ html, body {
 }
 
 a {
-	color: #3E528E;
+	color: #5ebeff;
 	text-decoration: none;
 }
 
 hr {
 	border: none;
-	border-top: 1px solid #0A122A;
+	border-top: 1px solid #282a2e;
 }
 
 p {

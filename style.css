@@ -1,16 +1,7 @@
-/*
-Background:	1a1a1a
-Links:		
-Titles/Bars:	0A122A
-Text:		383838
-Text Lite:	4C4C4C
-*/
-
 * {
 	font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
-	/* Paper */
+	font-size: large;
 	background: #1a1a1a;
-	/* Charcoal */
 	color: #cecece;
 }
 
@@ -44,19 +35,16 @@ h2 {
 	margin: 0px;
 }
 
-#container {
-	min-height: 100%;
-	position: relative;
-}
-
 #body {
 	padding: 10px;
 	padding-bottom: 40px;
 }
 
 #footer {
+	margin: auto;
+	text-align: center;
 	position: fixed;
 	bottom: 0;
 	width: 100%;
-	height: 40px;
+	height: 47px;
 }

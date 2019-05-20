@@ -1,37 +1,49 @@
-* {
+*
+{
 	font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
 	font-size: large;
 	background: #1a1a1a;
-	color: #cecece;
+	color: #fffaf4;
+	text-align: center;
 }
 
-html, body {
-	margin: 0;
-	padding: 0;
-	height: 100%;
-}
-
-a {
+a
+{
 	color: #5ebeff;
 	text-decoration: none;
 }
 
-hr {
+hr
+{
 	border: none;
 	border-top: 1px solid #282a2e;
 }
 
-#date {
-	color: #4c4c4c;
-	margin: 0px;
+#date, #time
+{
+	font-weight: bold;
 }
 
-#body {
+#date
+{
+	margin: 50px 0px 0px 0px;
+}
+
+#time
+{
+	margin: 0px 0px 20px 0px;
+}
+
+
+#body
+{
 	padding: 10px;
 	padding-bottom: 40px;
 }
 
-#footer {
+
+#footer
+{
 	margin: auto;
 	text-align: center;
 	position: fixed;

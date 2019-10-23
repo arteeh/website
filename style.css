@@ -32,6 +32,11 @@ a:hover, a:active
 	text-decoration: underline;
 }
 
+.medium
+{
+	color: #008000;
+}
+
 .gitlab
 {
 	color: #e14329;
@@ -49,7 +54,7 @@ a:hover, a:active
 
 .mail
 {
-	color: #4a4a4a;
+	color: #800080;
 }
 
 .snapchat
@@ -64,5 +69,5 @@ a:hover, a:active
 
 .youtube
 {
-	color: #ed3833;
+	color: #ff0000;
 }

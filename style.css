@@ -29,7 +29,7 @@ a:link, a:visited
 
 a:hover, a:active
 {
-	text-decoration: underline;
+	 text-shadow: 0 0 5px #aaaaaa;
 }
 
 .medium

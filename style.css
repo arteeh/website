@@ -1,73 +1,42 @@
 *
 {
 	font-family: monospace;
-	background: #faffff;
+	background: #f8ffff;
 	font-weight: 100;
+}
+
+.intro, .links
+{
+	margin: 30px;
 }
 
 .intro
 {
 	font-size: 20px;
 	line-height: 1.6;
-	margin-top: 30px;
-	margin-bottom: 30px;
-	margin-left: 30px;
 }
 
 .links
 {
 	font-size: 17px;
 	line-height: 2.3;
-	margin-top: 30px;
-	margin-left: 30px;
 }
 
-a:link, a:visited
-{
-	text-decoration: none;
-}
+a:link, a:visited { text-decoration: none; }
+a:hover, a:active { text-shadow: 0 0 5px #aaaaaa; }
 
-a:hover, a:active
-{
-	 text-shadow: 0 0 5px #aaaaaa;
-}
-
-.medium
-{
-	color: #008000;
-}
-
-.gitlab
-{
-	color: #e14329;
-}
-
-.instagram
-{
-	color: #e1306c;
-}
-
-.linkedin
-{
-	color: #0077b5;
-}
-
-.mail
-{
-	color: #800080;
-}
-
-.snapchat
-{
-	color: #b3b000;
-}
-
-.twitter
-{
-	color: #38a1f3;
-}
-
-.youtube
-{
-	color: #ff0000;
-}
+/*
+gradient from
+9A0073
+to
+18a999
+https://colordesigner.io/gradient-generator
+*/
+.blog		{ color: #9a0073; }
+.linkedin	{ color: #871878; }
+.gitlab		{ color: #75307e; }
+.angellist	{ color: #624883; }
+.twitter	{ color: #506189; }
+.instagram	{ color: #3d798e; }
+.youtube	{ color: #2b9194; }
+.snapchat	{ color: #18a999; }

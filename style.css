@@ -27,16 +27,17 @@ a:hover, a:active { text-shadow: 0 0 5px #aaaaaa; }
 
 /*
 gradient from
-9A0073
+C20090
 to
-18a999
+009970
 https://colordesigner.io/gradient-generator
 */
-.linkedin	{ color: #9a0073; }
-.github		{ color: #7b41a3; }
-.angellist	{ color: #3b62c1; }
-.twitter	{ color: #007bca; }
-.instagram	{ color: #008ec2; }
-.youtube	{ color: #009dae; }
-.snapchat	{ color: #18a999; }
+.c1	{ color: #c20090; }
+.c2	{ color: #9647c0; }
+.c3	{ color: #3f68dc; }
+.c4	{ color: #007de1; }
+.c5	{ color: #008ad1; }
+.c6	{ color: #0092b3; }
+.c7	{ color: #009790; }
+.c8	{ color: #009970; }
 
